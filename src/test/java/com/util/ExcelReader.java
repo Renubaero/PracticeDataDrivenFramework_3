@@ -45,12 +45,5 @@ public class ExcelReader {
 			return "";
 		}
 	}
-//	public static void main(String[] args) throws IOException {
-//		String sheetName="addCustomer";
-//		ExcelReader excel=new ExcelReader();
-//		System.out.println(excel.getRowCount(sheetName));
-//		System.out.println(excel.getCellCount(sheetName));
-//		System.out.println(excel.getCellData(1,1,sheetName));
-//	}
 
 }
